@@ -1,4 +1,4 @@
-// Write your JS code here
+
 import Header from '../Header'
 import './index.css'
 
